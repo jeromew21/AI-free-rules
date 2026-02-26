@@ -1,13 +1,15 @@
 # AI-free-rules
-rules for programming sans LLM
 
--LLMs have high utility but I've found that they kill my enjoyment of writing software, and
+Following are rules for programming sans LLM:
+
+NOTE: LLMs have high utility but I've found that they kill my enjoyment of writing software, and
 they make you profoundly stupider (there's that study, citation TODO). These following rules are to be followed in an AI free program:
 
 # Rule #1: No agent generated code.
-- No claude code, no Codex, no Copilot.
-- Agents have high utility for reading existing codebasees, generating unit tests etc.
-- However, it's too tempting to have it generate code for you.
+- No Claude Code, no Codex, no Copilot.
+- Agents have high timesaving potential to explain existing codebases, generating unit tests etc.
+- However, it's too tempting to have it generate code for you. Right now, the agents have you opting out of full automation, which makes me very uncomfortable.
+- Exceptions may be made in the future.
 
 # Rule #2: You may use AI to generate unit tests.
 - Self-explanatory
@@ -18,3 +20,5 @@ they make you profoundly stupider (there's that study, citation TODO). These fol
 # Rule #4: You may use AI to ask high level questions.
 
 # Rule #5: You may use AI to get API documentation.
+
+# Rule #6: You may use AI to fill in well defined functions.
