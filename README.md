@@ -11,14 +11,14 @@ they make you profoundly stupider (there's that study, citation TODO). These fol
 - However, it's too tempting to have it generate code for you. Right now, the agents have you opting out of full automation, which makes me very uncomfortable.
 - Exceptions may be made in the future.
 
-# Rule #2: You may use AI to generate unit tests.
-- Self-explanatory
-
-# Rule #3: You may use AI to generate documentation.
-- For example, to annotate a function with Doxygen style comments.
+# Rule #2: EXCEPTIONS TO RULE #1
+- You may use AI agents to generate unit tests.
+- You may use AI agents to generate documentation.
+- You may use AI agnets to write your frontend.
   
 # Rule #4: You may use AI to ask high level questions.
 
 # Rule #5: You may use AI to get API documentation.
 
 # Rule #6: You may use AI to fill in well defined functions.
+
