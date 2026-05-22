@@ -2,23 +2,31 @@
 
 Following are rules for programming sans LLM:
 
-NOTE: LLMs have high utility but I've found that they kill my enjoyment of writing software, and
-they make you profoundly stupider (there's that study, citation TODO). These following rules are to be followed in an AI free program:
+NOTE: LLMs have high utility but I've found that sap my joie de vivre, and
+they make you profoundly stupider. 
 
-# Rule #1: No agent generated code.
-- No Claude Code, no Codex, no Copilot.
+# Definitions
+- AI Agents
+  - Sees your code on disk and can automatically make changes.
+  - Examples: Claude Code, Codex
+
+- AI Chat
+  - claude.ai, chatgpt.com, etc.
+
+These following rules are to be followed in an AI free program:
+
+# Rule #1: No AI agent generated code.
 - Agents have high timesaving potential to explain existing codebases, generating unit tests etc.
-- However, it's too tempting to have it generate code for you. Right now, the agents have you opting out of full automation, which makes me very uncomfortable.
-- Exceptions may be made in the future.
+- However, it's too tempting to have it generate code for you. Right now, the agents have you **opting out** of full automation, which makes me very uncomfortable.
 
 # Rule #2: EXCEPTIONS TO RULE #1
 - You may use AI agents to generate unit tests.
 - You may use AI agents to generate documentation.
-- You may use AI agnets to write your frontend.
+- You may use AI agents to write your frontend in X framework, where X is the new fangled thing.
   
-# Rule #4: You may use AI to ask high level questions.
+# Rule #3: You may use AI chat to ask high level questions.
 
-# Rule #5: You may use AI to get API documentation.
+# Rule #4: You may use AI chat to read API documentation.
 
-# Rule #6: You may use AI to fill in well defined functions.
+# Rule #5: You may use AI chat to fill in well defined functions.
 
