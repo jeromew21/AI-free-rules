@@ -6,14 +6,16 @@ NOTE: LLMs have high utility but I've found that sap my joie de vivre, and
 they make you profoundly stupider. 
 
 # Definitions
-- AI Agents
-  - Sees your code on disk and can automatically make changes.
-  - Examples: Claude Code, Codex
-  - AI Agents are stronger than AI Chat, so if something is allowed for an AI agent, a fortiori it is allowed for AI Chat.
-
 - AI Chat
-  - claude.ai, chatgpt.com, etc.
- 
+  - Examples: claude.ai, chatgpt.com
+  - Lets you type a prompt and/or paste text/artifacts.
+  - Doesn't necessarily have context for your project.
+    
+- AI Agents
+  - Examples: Claude Code, Codex
+  - Sees your code on disk and can automatically make changes.
+  - AI Agents are stronger than AI Chat, so if something is allowed for an AI agent, is allowed _a fortiori_ for AI Chat.
+
 - Library
   - A self contained repository with minimal dependencies that encapsulates a single responsibility.
 
