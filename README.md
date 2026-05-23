@@ -30,7 +30,7 @@ These following rules are to be followed in an AI free program:
   
 # Rule #3: You may use AI chat to ask high level questions.
 
-# Rule #4: You may use AI chat to read API documentation.
+# Rule #4: You may use AI chat to read or query API documentation.
 
 # Rule #5: You may use AI chat to fill in well defined functions.
 
@@ -39,3 +39,6 @@ These following rules are to be followed in an AI free program:
 
 # Rule #7: You can use AI chat or AI agents to write a library, with caveats
 - Caveat #1: The library needs to be its own distinct repository with minimal dependecies (i.e. it can't import from the main project)
+
+# Rule #8: You may use AI chat to code review and suggest changes to your code
+- This must be done with care, as enough context needs to be provided
