@@ -30,3 +30,5 @@ These following rules are to be followed in an AI free program:
 
 # Rule #5: You may use AI chat to fill in well defined functions.
 
+# Rule #6: You may use AI chat to write build system code (makefiles, CMake, etc.)
+- This carries some risk and may be changed in the future.
