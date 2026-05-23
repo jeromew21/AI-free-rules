@@ -8,12 +8,15 @@ they make you profoundly stupider.
 # Definitions
 - AI Chat
   - Examples: claude.ai, chatgpt.com
-  - Lets you type a prompt and/or paste text/artifacts.
+  - Lets you type a prompt and/or paste text/upload artifacts.
+  - Burns low number of tokens (unless in thinking mode) and can be in free tier.
   - Doesn't necessarily have context for your project.
     
 - AI Agents
   - Examples: Claude Code, Codex
-  - Sees your code on disk and can automatically make changes.
+  - Sees your code on disk. Thus, has full context of your project.
+  - Burns high number of tokens.
+  - Can run autonomously. Usually an *opt-out* of automatic changes, which makes me uncomfortable.
   - AI Agents are stronger than AI Chat, so if something is allowed for an AI agent, is allowed _a fortiori_ for AI Chat.
 
 - Library
