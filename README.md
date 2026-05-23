@@ -26,6 +26,7 @@ These following rules are to be followed in an AI free program:
 - You may use AI agents to generate unit tests.
 - You may use AI agents to generate documentation.
 - You may use AI agents to write your frontend in X framework, where X is the new fangled thing.
+- Rule #7
   
 # Rule #3: You may use AI chat to ask high level questions.
 
@@ -36,4 +37,5 @@ These following rules are to be followed in an AI free program:
 # Rule #6: You may use AI chat to write build system code (makefiles, CMake, etc.)
 - This carries some risk and may be changed in the future.
 
-# Rule #7: You can use AI chat or AI agents to write a library 
+# Rule #7: You can use AI chat or AI agents to write a library, with caveats
+- Caveat #1: The library needs to be its own distinct repository with minimal dependecies (i.e. it can't import from the main project)
