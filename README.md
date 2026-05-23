@@ -12,10 +12,13 @@ they make you profoundly stupider.
 
 - AI Chat
   - claude.ai, chatgpt.com, etc.
+ 
+- Library
+  - A self contained repository with minimal dependencies that encapsulates a single responsibility.
 
 These following rules are to be followed in an AI free program:
 
-# Rule #1: No AI agent generated code.
+# Rule #1: No AI agent generated code in your project.
 - Agents have high timesaving potential to explain existing codebases, generating unit tests etc.
 - However, it's too tempting to have it generate code for you. Right now, the agents have you **opting out** of full automation, which makes me very uncomfortable.
 
@@ -32,3 +35,5 @@ These following rules are to be followed in an AI free program:
 
 # Rule #6: You may use AI chat to write build system code (makefiles, CMake, etc.)
 - This carries some risk and may be changed in the future.
+
+# Rule #7: You can use AI chat or AI agents to write a library 
